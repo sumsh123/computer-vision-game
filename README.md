@@ -1,6 +1,6 @@
-# Finger Force
+# Computer vision game
 
-Finger Force is a computer vision game controlled through hand gestures.
+This is a computer vision game controlled through hand gestures.
 
 The player moves a spaceship by moving their index finger in front of the webcam. Bringing the thumb and index finger together activates a temporary shield.
 
